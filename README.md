@@ -1,4 +1,4 @@
-# Development template
+# Development + Deploy template
 
 ### Configs ready for:
 * nginx
